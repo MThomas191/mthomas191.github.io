@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1920" height="1080">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1771184760790.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1771186027576.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-39477b7d-1961-4ad9-8d04-6de8831b9030" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Activities"width="1280" height="1440">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/39477b7d-1961-4ad9-8d04-6de8831b9030/style-1771184760790.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/39477b7d-1961-4ad9-8d04-6de8831b9030/style-1771186027576.css" />\
       <div class="freeLayout">\
       <div id="s-Text_1" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="1.00px" datasizeheight="1.00px" dataX="945.00" dataY="96.00" >\
         <div class="backgroundLayer">\
