@@ -2,7 +2,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="t-f39803f7-df02-4169-93eb-7547fb8c961a" class="template growth-both devWeb canvas firer commentable non-processed" alignment="left" name="Template 1"width="1920" height="1080">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1771186733515.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/templates/f39803f7-df02-4169-93eb-7547fb8c961a/style-1771186923004.css" />\
       <div class="freeLayout">\
       </div>\
 \
@@ -12,7 +12,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
     <div id="s-f49f9390-3da1-4804-b43b-c4421bb40743" class="screen growth-vertical devWeb canvas PORTRAIT firer ie-background commentable non-processed" alignment="left" name="Lodging"width="1280" height="1440">\
     <div id="backgroundBox"><div class="colorLayer"></div><div class="imageLayer"></div></div>\
     <div id="alignmentBox">\
-      <link type="text/css" rel="stylesheet" href="./review/screens/f49f9390-3da1-4804-b43b-c4421bb40743/style-1771186733515.css" />\
+      <link type="text/css" rel="stylesheet" href="./review/screens/f49f9390-3da1-4804-b43b-c4421bb40743/style-1771186923004.css" />\
       <div class="freeLayout">\
       <div id="s-Text_1" class="richtext autofit firer ie-background commentable non-processed" customid="H1"   datasizewidth="1.00px" datasizeheight="1.00px" dataX="945.00" dataY="96.00" >\
         <div class="backgroundLayer">\
@@ -501,7 +501,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                             <div class="center ghostHLayout">\
                             <table class="layout" summary="">\
                               <tr>\
-                                <td class="layout horizontal insertionpoint verticalalign Cell_4 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_6" class="richtext manualfit firer mouseenter mouseleave click ie-background commentable non-processed" customid="Transportation"   datasizewidth="313.03px" datasizeheight="120.00px" dataX="0.00" dataY="0.61" >\
+                                <td class="layout horizontal insertionpoint verticalalign Cell_4 Content_grid_1" valign="middle" align="center" hSpacing="6" vSpacing="0"><div id="s-Text_6" class="richtext manualfit firer mouseenter mouseleave click ie-background commentable non-processed" customid="Transport"   datasizewidth="313.03px" datasizeheight="120.00px" dataX="0.00" dataY="0.61" >\
                               <div class="backgroundLayer">\
                                 <div class="colorLayer"></div>\
                                 <div class="imageLayer"></div>\
@@ -510,7 +510,7 @@ var content='<div class="ui-page " deviceName="web" deviceType="desktop" deviceW
                                 <div class="paddingLayer">\
                                   <div class="content">\
                                     <div class="valign">\
-                                      <span id="rtr-s-Text_6_0">Transportation</span>\
+                                      <span id="rtr-s-Text_6_0">Transport</span>\
                                     </div>\
                                   </div>\
                                 </div>\
